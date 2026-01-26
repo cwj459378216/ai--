@@ -1,0 +1,10 @@
+llama-index==0.14.13
+llama-index-vector-stores-milvus
+pymilvus
+milvus-lite
+requests
+python-dotenv
+streamlit
+pdfplumber
+python-docx
+pandas
